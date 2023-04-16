@@ -1,0 +1,7 @@
+﻿  Team.cpp
+  player.cpp
+  user.cpp
+C:\Users\tarek\source\repos\FAntasy-001\FAntasy-001\user.cpp(34,23): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+C:\Users\tarek\source\repos\FAntasy-001\FAntasy-001\user.cpp(55,27): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  FAntasy-001.vcxproj -> C:\Users\tarek\source\repos\FAntasy-001\x64\Debug\FAntasy-001.exe
